@@ -1,0 +1,5 @@
+Sleep(200)
+Send("{TAB}")
+Sleep(200)
+Send("{ENTER}")
+Sleep(200)
